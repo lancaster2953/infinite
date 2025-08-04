@@ -1,5 +1,5 @@
 !(function () {
-  var artist = 'ONEWE';
+  var artist = 'INFINITE';
   var startDate = "08/03/2025";
   var e = {
       262: function (e) {
