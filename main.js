@@ -1,6 +1,6 @@
 !(function () {
   var artist = 'ONEWE';
-  var startDate = "07/08/2025";
+  var startDate = "08/03/2025";
   var e = {
       262: function (e) {
         "use strict";
@@ -17379,16 +17379,16 @@
       var Ut = Ft,
         Wt = [1e3, 2e3, 4e3, 7e3, 11e3, 16e3],
         Bt = [
-{ artist: "ONEWE", name: "Regulus (야행성)", youtubeId: "oqaY9H1VOV8" },
-{ artist: "ONEWE", name: "ERASER (기억 세탁소)", youtubeId: "EC73vvSmqjU" },
-{ artist: "ONEWE", name: "STAR (별)", youtubeId: "K2J0B4e5Xe4" },
-{ artist: "ONEWE", name: "Orbit_ (궤도)", youtubeId: "v43CpZxE_0E" },
-{ artist: "ONEWE", name: "Reminisce about All (다 추억)", youtubeId: "xGClAPu4eic" },
-{ artist: "ONEWE", name: "Veronica (베로니카의 섬)", youtubeId: "_g4f7HWIz_g" },
-{ artist: "ONEWE", name: "Envision_ (우물 속 작은 아이)", youtubeId: "FgT_RxAZuzw" },
-{ artist: "ONEWE", name: "End of Spring (나의 계절 봄은 끝났다)", youtubeId: "oNKDWxkmBS0" },
-{ artist: "ONEWE ", name: "PARTING (소행성)", youtubeId: "CjsYX5U6LLQ" },
-{ artist: "ONEWE", name: "OFF ROAD", youtubeId: "kQnFUpLEYFM" },
+{ artist: "INFINITE", name: "Cover Girl", youtubeId: "y--LoCW0hQM" },
+{ artist: "INFINITE", name: "She's Back", youtubeId: "BllzbTW4tio" },
+{ artist: "INFINITE", name: "The Chaser", youtubeId: "A89aULGotSY" },
+{ artist: "INFINITE", name: "New Emotions", youtubeId: "DTdhfPSPVVU" },
+{ artist: "INFINITE", name: "Still I Miss You (그리움이 닿는 곳에)", youtubeId: "6w9uf6yDBlk" },
+{ artist: "INFINITE", name: "Inception", youtubeId: "88IdPPO4pAQ" },
+{ artist: "INFINITE", name: "Dangerous", youtubeId: "rl13kUOLpw0" },
+{ artist: "INFINITE", name: "Julia", youtubeId: "sdHfYZx6tjU" },
+{ artist: "INFINITE ", name: "The Eye (태풍)", youtubeId: "9WVVZj5O-XE" },
+{ artist: "INFINITE", name: "Voice Of My Heart (마음으로...)", youtubeId: "ljtrT6ia-aQ" },
 { artist: "ONEWE", name: "Rain To Be (비를 몰고 오는 소년)", youtubeId: "hzzbFTzVSbA" },
 { artist: "ONEWE", name: "Universe_ (너의 우주는)", youtubeId: "o1aa5pU7_tQ" },
 { artist: "ONEWE", name: "Ring on my Ears (귀걸이가 나를 때리게)", youtubeId: "qkSRAVzkWC0" },
